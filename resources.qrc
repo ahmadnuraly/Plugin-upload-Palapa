@@ -3,4 +3,7 @@
     <file>420px-Badan_Informasi_Geospasial_logo.png</file>
     <file>icon.png</file>
   </qresource>
+  <qresource prefix="img">
+    <file>img/icon.png</file>
+  </qresource>
 </RCC>
